@@ -1,0 +1,5 @@
+@import 'bulma/bulma';
+.larger-title {
+    font-size: 4rem; /* Adjust the size as needed */
+    font-weight: bold; /* Optional: make it bold */
+}
