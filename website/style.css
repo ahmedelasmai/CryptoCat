@@ -3,3 +3,7 @@
     font-size: 4rem; /* Adjust the size as needed */
     font-weight: bold; /* Optional: make it bold */
 }
+
+.is-purple {
+    background-color: #29082c; /* Purple color */
+}
