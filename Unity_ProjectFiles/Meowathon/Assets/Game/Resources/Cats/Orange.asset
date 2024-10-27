@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d748f4bc4ab14c07b27b467b4bba30e, type: 3}
+  m_Name: Orange
+  m_EditorClassIdentifier: 
+  name: Orange
+  description: 
+  frontSprite: {fileID: 21300000, guid: 26f052cbda5014db5b94b887028ca2da, type: 3}
+  backSprite: {fileID: 21300000, guid: 26f052cbda5014db5b94b887028ca2da, type: 3}
+  type1: 3
+  type2: 1
+  maxHp: 50
+  attack: 45
+  defense: 55
+  spAttack: 70
+  spDefense: 40
+  speed: 45
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7a03feba79404445e8fccac73e5f10b5, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: ca58d7cd40bd94a6ba12faac581a49e7, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 767b4d9922c55402eae1d014111812cd, type: 2}
+    level: 4

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Unity II Login</title>
+    <script type="module">
+        import { AuthClient } from "@dfinity/auth-client";
+
+        async function loginAndSendPrincipal() {
+            const authClient = await AuthClient.create();
+            await authClient.login({
+                onSuccess: async () => {
+                    const identity = authClient.getIdentity();
+                    const principalId = identity.getPrincipal().toText();
+                    // Send the principal ID back to Unity.
+                    window.Unity.sendMessage('UnityGameObjectName', 'ReceivePrincipalId', principalId);
+                },
+                onError: () => console.error("Login failed"),
+            });
+        }
+    </script>
+</head>
+<body onload="loginAndSendPrincipal()">
+    <h1>Logging in...</h1>
+</body>
+</html>
