@@ -2,7 +2,29 @@
     "canisters": {
       "my_static_site": {
         "type": "assets",
-        "source": "./public"  
+        "source": {
+            "canisters": {
+              "my_static_site": {
+                "type": "assets",
+                "source": [
+                    "./public/index.html",
+                    "./public/styles.css",
+                    "./public/script.js",
+                    "./public/node_modules/bulma/css/bulma.min.css",
+                    "./public/big_crypto_cat_logo.png",  
+                    "./public/crypto_cat_logo.png"        
+                  ]
+              }
+            },
+            "networks": {
+              "local": {
+                "bind": "127.0.0.1:8000"
+              },
+              "ic": {}
+            },
+            "version": 1
+          }
+          
       }
     },
     "networks": {
