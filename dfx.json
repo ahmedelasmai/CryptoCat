@@ -2,7 +2,7 @@
     "canisters": {
       "my_static_site": {
         "type": "assets",
-        "source": "./"  
+        "source": "./public"  
       }
     },
     "networks": {
