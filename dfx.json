@@ -1,0 +1,16 @@
+{
+    "canisters": {
+      "my_static_site": {
+        "type": "assets",
+        "source": "./"  
+      }
+    },
+    "networks": {
+      "local": {
+        "bind": "127.0.0.1:8000"
+      },
+      "ic": {}
+    },
+    "version": 1
+  }
+  
