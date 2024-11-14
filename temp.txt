@@ -1,0 +1,94 @@
+dfx canister call icrc7 icrcX_mint "(
+  vec {
+    record {
+      token_id = 0 : nat;
+      owner = opt record { owner = principal \"$ICRC7_CANISTER\"; subaccount = null;};
+      metadata = variant {
+        Class = vec {
+          record {
+            value = variant {
+              Text = \"https://i.ytimg.com/vi/oBUpJ4CqmN0/maxresdefault.jpg\"
+            };
+            name = \"icrc7:metadata:uri:image\";
+            immutable = true;
+          };
+        }
+      };
+      memo = opt blob \"\00\01\";
+      override = true;
+      created_at_time = null;
+    };
+    record {
+      token_id = 1 : nat;
+      owner = opt record { owner = principal \"$ICRC7_CANISTER\"; subaccount = null;};
+      metadata = variant {
+        Class = vec {
+          record {
+            value = variant {
+              Text = \"https://i.ytimg.com/vi/3WpP8ux1zX0/sddefault.jpg\"
+            };
+            name = \"icrc7:metadata:uri:image\";
+            immutable = true;
+          };
+        }
+      };
+      memo = opt blob \"\00\01\";
+      override = true;
+      created_at_time = null;
+    };
+    record {
+      token_id = 2 : nat;
+      owner = opt record { owner = principal \"$ICRC7_CANISTER\"; subaccount = null;};
+      metadata = variant {
+        Class = vec {
+          record {
+            value = variant {
+              Text = \"https://i.ytimg.com/vi/fDMHUdo7m-k/maxresdefault.jpg\"
+            };
+            name = \"icrc7:metadata:uri:image\";
+            immutable = true;
+          };
+        }
+      };
+      memo = opt blob \"\00\01\";
+      override = true;
+      created_at_time = null;
+    };
+ record {
+      token_id = 3 : nat;
+      owner = opt record { owner = principal \"$ICRC7_CANISTER\"; subaccount = null;};
+      metadata = variant {
+        Class = vec {
+          record {
+            value = variant {
+              Text = \"https://i.ytimg.com/vi/mwbRRk9T5Nw/maxresdefault.jpg\"
+            };
+            name = \"icrc7:metadata:uri:image\";
+            immutable = true;
+          };
+        }
+      };
+      memo = opt blob \"\00\01\";
+      override = true;
+      created_at_time = null;
+    };
+ record {
+      token_id = 4 : nat;
+      owner = opt record { owner = principal \"$ICRC7_CANISTER\"; subaccount = null;};
+      metadata = variant {
+        Class = vec {
+          record {
+            value = variant {
+              Text = \"https://i.ytimg.com/vi/sZxbRAwYYMw/hqdefault.jpg\"
+            };
+            name = \"icrc7:metadata:uri:image\";
+            immutable = true;
+          };
+        }
+      };
+      memo = opt blob \"\00\01\";
+      override = true;
+      created_at_time = null;
+    };
+  },
+)"
