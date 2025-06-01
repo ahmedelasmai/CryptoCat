@@ -1,7 +1,3 @@
-Based on the details you provided, it seems you're working on the **Crypto Cats** project and have a fairly structured repository with various files and subfolders related to your blockchain and game development. I'll structure a `README.md` file with insights into the type of files you've mentioned in your directory.
-
----
-
 # **🐱 Crypto Cats**
 
 ### **A blockchain-powered, turn-based RPG where you capture, train, and battle unique feline NFTs!**
