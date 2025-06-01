@@ -46,6 +46,16 @@ https://ahthu-kiaaa-aaaap-akpza-cai.icp0.io
 
 ## **🛠️ Technologies Used**
 
+![oaicite:6](https://github.com/ahmedelasmai/CryptoCat/blob/59de4ee35a3d8bf3e208392cc07336aaced16ef7/logos/internetcomputer.png?raw=true)
+![oaicite:6](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![oaicite:6](https://github.com/ahmedelasmai/CryptoCat/blob/59de4ee35a3d8bf3e208392cc07336aaced16ef7/logos/internetcomputer.png?raw=true)
+![oaicite:6](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![oaicite:6](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![oaicite:6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![oaicite:6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+
 | **Area**               | **Technology**                                                                           |
 |-------------------------|------------------------------------------------------------------------------------------|
 | **Blockchain Backend** | [Motoko](https://internetcomputer.org/docs/current/motoko/main/motoko-introduction)       |
