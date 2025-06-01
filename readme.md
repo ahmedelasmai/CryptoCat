@@ -2,14 +2,7 @@
 
 ### **A blockchain-powered, turn-based RPG where you capture, train, and battle unique feline NFTs!**
 
----
-
-## **📚 Table of Contents**
-1. [Project Description](#-project-description)
-2. [Key Features](#-key-features)
-3. [Technologies Used](#-technologies-used)
-4. [Folder Structure](#-folder-structure)
-5. [How to Run the Project](#-how-to-run-the-project)
+https://ahthu-kiaaa-aaaap-akpza-cai.icp0.io
 
 ---
 
@@ -20,12 +13,7 @@ Crypto Cats combines the engaging gameplay of turn-based RPGs with the power of 
 The combination of **blockchain randomness** and **NFT-based economy** ensures fair gameplay and real asset ownership that works seamlessly across platforms.
 ---
 
-## Website**
-
-https://ahthu-kiaaa-aaaap-akpza-cai.icp0.io
----
-
-## **✨ Key Features**
+##✨ Key Features**
 
 - **Turn-Based RPG Mechanics:**  
    Engage in strategic battles and train your Crypto Cats to become stronger.
@@ -46,13 +34,18 @@ https://ahthu-kiaaa-aaaap-akpza-cai.icp0.io
 
 ## **🛠️ Technologies Used**
 
+![oaicite:6](https://github.com/ahmedelasmai/CryptoCat/blob/main/logos/motoko.png?raw=true)
 ![oaicite:6](https://github.com/ahmedelasmai/CryptoCat/blob/59de4ee35a3d8bf3e208392cc07336aaced16ef7/logos/internetcomputer.png?raw=true)
+
+
+
+
+
 ![oaicite:6](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![oaicite:6](https://github.com/ahmedelasmai/CryptoCat/blob/59de4ee35a3d8bf3e208392cc07336aaced16ef7/logos/internetcomputer.png?raw=true)
-![oaicite:6](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![oaicite:6](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![oaicite:6](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![oaicite:6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![oaicite:6](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![oaicite:6](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
